@@ -1,4 +1,4 @@
-const URL="https://validacpf-livia.herokuapp.com/?cpf="
+const URL="https://spring-boot-liviaze.herokuapp.com/?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
